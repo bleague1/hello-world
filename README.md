@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+This repository is used for completing github tutorials and learning how to use github.
